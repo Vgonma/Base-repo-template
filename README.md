@@ -23,12 +23,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magician <a name="about-project"></a>
+# 📖 [Project Name] <a name="about-project"></a>
 
 
 
 
-**Math Magicians** is a simple react application that lets you use a calculator online.
+**[Projec Name]** is a simple react application that lets you use a calculator online.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -71,7 +71,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://math-magician-pi3w.onrender.com)
+- Check the live demo [here]()
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -153,11 +153,9 @@ To run the project open the html file in your web browser.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **Calculator that performs every math operation**
-- [ ] **3 sup-pages: Home, Calculator, Quote**
-- [ ] **Tests for development**
+- [ ] **Feature 1**
+- [ ] **Feature 2**
+- [ ] **Feature 3**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
